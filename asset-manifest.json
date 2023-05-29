@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hetast/static/css/main.659086a9.css",
+    "main.js": "/hetast/static/js/main.a96f451f.js",
+    "index.html": "/hetast/index.html",
+    "main.659086a9.css.map": "/hetast/static/css/main.659086a9.css.map",
+    "main.a96f451f.js.map": "/hetast/static/js/main.a96f451f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.659086a9.css",
+    "static/js/main.a96f451f.js"
+  ]
+}
